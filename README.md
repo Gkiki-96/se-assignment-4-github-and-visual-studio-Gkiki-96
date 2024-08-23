@@ -7,12 +7,15 @@ Questions:
 Introduction to GitHub:
 
 What is GitHub, and what are its primary functions and features? Explain how it supports collaborative software development.
+GitHub is a developer platform that allows developers to create, store, manage and share their code. Commit History: Tracks changes to code over time, allowing you to review and revert to previous versions if needed. Branching and Merging: Enables developers to work on separate branches of a project and later merge their changes into the main codebase, facilitating parallel development and experimentation. Pull Requests: A feature that allows developers to propose changes to a codebase. Other team members can review these changes, discuss them, and suggest modifications before they are merged into the main branch. A system for tracking tasks, bugs, and enhancements. Issues can be assigned to team members, prioritized, and linked to specific code changes or pull requests. Markdown files that provide important information about the project, such as setup instructions, usage guidelines, and contribution protocols.By using Git, GitHub ensures that every change is tracked, allowing multiple developers to work on the same codebase without conflicts. Branching and merging enable teams to develop features or fix bugs in isolation before integrating their work. These features facilitate peer review and discussion of code changes. Pull requests help ensure that changes are vetted and meet the project’s quality standards before they become part of the main codebase. GitHub Actions and other integrations automate repetitive tasks like testing and deployment, reducing manual effort and increasing efficiency
 Repositories on GitHub:
 
 What is a GitHub repository? Describe how to create a new repository and the essential elements that should be included in it.
+A GitHub repository is a central location on GitHub where your project's files, including its code, documentation, and metadata, are stored. Log in to your GitHub account, On your GitHub homepage, click the "+" icon in the upper-right corner and select "New repository. Fill in the repository name and decription (optional), choose the visibility either public or private, and a README file then pick a license the last step is click on "create repository".
 Version Control with Git:
 
 Explain the concept of version control in the context of Git. How does GitHub enhance version control for developers?
+
 Branching and Merging in GitHub:
 
 What are branches in GitHub, and why are they important? Describe the process of creating a branch, making changes, and merging it back into the main branch.
